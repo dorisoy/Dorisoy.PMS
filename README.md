@@ -108,8 +108,9 @@
 
 # 截图 
 
+<img src="https://github.com/dorisoy/Dorisoy.PMS/blob/main/s%20(1).png"/>
 <img src="https://github.com/dorisoy/Dorisoy.PMS/blob/main/s%20(5).png"/>
 <img src="https://github.com/dorisoy/Dorisoy.PMS/blob/main/s%20(4).png"/>
 <img src="https://github.com/dorisoy/Dorisoy.PMS/blob/main/s%20(3).png"/>
 <img src="https://github.com/dorisoy/Dorisoy.PMS/blob/main/s%20(2).png"/>
-<img src="https://github.com/dorisoy/Dorisoy.PMS/blob/main/s%20(1).png"/>
+
