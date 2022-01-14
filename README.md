@@ -1,6 +1,59 @@
 # Dorisoy.PMS
 一款用于团队项目任务进度安排和协作的管理系统
 
+# 项目结构
+
+|-- Dorisoy.PMS.sln
+|-- DB
+|-- Dorisoy.PMS
+|   |-- Add_Data
+|   |   |-- project
+|   |-- App_Start
+|   |-- Areas
+|   |   |-- Admin
+|   |   |   |-- Controllers
+|   |   |   |-- Views
+|   |   |       |-- Calendar
+|   |   |       |-- Login
+|   |   |       |-- Notification
+|   |   |       |-- Progress
+|   |   |       |-- ProjectDetail
+|   |   |       |-- Projects
+|   |   |       |-- Shared
+|   |   |       |-- SignUp
+|   |   |       |-- ToDoLists
+|   |   |       |-- UpComingEvents
+|   |   |-- SuperAdmin
+|   |       |-- Controllers
+|   |       |-- Views
+|   |           |-- AdminDetail
+|   |           |-- Login
+|   |           |-- Shared
+|   |-- Content
+|   |-- Images
+|   |-- Models
+|   |-- Scripts
+|   |   |-- images
+|   |-- Upload
+|   |   |-- ProjectAttachment
+|   |-- Utility_Class
+|   |   |-- Controllers
+|   |-- Views
+|       |-- Account
+|       |-- Calendar
+|       |-- Login
+|       |-- Nav
+|       |-- Notification
+|       |-- Progress
+|       |-- ProjectDetail
+|       |-- Registeration
+|       |-- Shared
+|       |-- SignUp
+|       |-- ToDoLists
+|       |-- UpComingEvents
+|-- PagedList
+|-- PagedList.Mvc
+
 
 # 功能
 
